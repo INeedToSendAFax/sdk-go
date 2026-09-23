@@ -1,6 +1,11 @@
 # INeedToSendAFax Go SDK
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/INeedToSendAFax/sdk-go.svg)](https://pkg.go.dev/github.com/INeedToSendAFax/sdk-go)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 Official Go client for the [INeedToSendAFax API](https://api.ineedtosendafax.com/docs). Send faxes, track delivery, and verify webhook callbacks.
+
+> Using Python? The Python SDK is [ineedtosendafax on PyPI](https://pypi.org/project/ineedtosendafax/) (`pip install ineedtosendafax`), source at [INeedToSendAFax/sdk-python](https://github.com/INeedToSendAFax/sdk-python).
 
 - Zero dependencies (standard library only)
 - Context-first, safe for concurrent use
